@@ -6,7 +6,7 @@ require (
 	cuelang.org/go v0.4.3
 	github.com/KromDaniel/jonson v0.0.0-20180630143114-d2f9c3c389db
 	github.com/Microsoft/go-winio v0.5.2
-	github.com/charmbracelet/glamour v0.5.0
+	github.com/charmbracelet/glamour v0.6.0
 	github.com/containerd/console v1.0.3
 	github.com/containerd/containerd v1.6.3-0.20220401172941-5ff8fce1fcc6
 	github.com/docker/buildx v0.8.2
@@ -71,6 +71,7 @@ require (
 	github.com/agext/levenshtein v1.2.3 // indirect
 	github.com/alecthomas/chroma v0.10.0 // indirect
 	github.com/armon/circbuf v0.0.0-20190214190532-5111143e8da2 // indirect
+	github.com/aymanbagabas/go-osc52 v1.0.3 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.2 // indirect
 	github.com/cockroachdb/apd/v2 v2.0.2 // indirect
@@ -109,15 +110,15 @@ require (
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
 	github.com/magiconair/properties v1.8.6 // indirect
 	github.com/mattn/go-isatty v0.0.16 // indirect
-	github.com/mattn/go-runewidth v0.0.13 // indirect
-	github.com/microcosm-cc/bluemonday v1.0.17 // indirect
+	github.com/mattn/go-runewidth v0.0.14 // indirect
+	github.com/microcosm-cc/bluemonday v1.0.21 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.1 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/moby/locker v1.0.1 // indirect
 	github.com/moby/sys/signal v0.6.0 // indirect
 	github.com/mpvl/unique v0.0.0-20150818121801-cbe035fff7de // indirect
 	github.com/muesli/reflow v0.3.0 // indirect
-	github.com/muesli/termenv v0.9.0 // indirect
+	github.com/muesli/termenv v0.13.0 // indirect
 	github.com/olekukonko/tablewriter v0.0.5 // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect
 	github.com/pelletier/go-toml/v2 v2.0.1 // indirect
@@ -134,7 +135,7 @@ require (
 	github.com/subosito/gotenv v1.3.0 // indirect
 	github.com/tliron/glsp v0.1.2-0.20220705150211-aa8066a02133 // indirect
 	github.com/xanzy/ssh-agent v0.3.0 // indirect
-	github.com/yuin/goldmark v1.4.4 // indirect
+	github.com/yuin/goldmark v1.5.2 // indirect
 	github.com/yuin/goldmark-emoji v1.0.1 // indirect
 	github.com/zchee/color/v2 v2.0.6 // indirect
 	go.lsp.dev/uri v0.3.0 // indirect
@@ -145,7 +146,7 @@ require (
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.4.1 // indirect
 	go.opentelemetry.io/proto/otlp v0.12.0 // indirect
 	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d // indirect
-	golang.org/x/net v0.0.0-20220708220712-1185a9018129 // indirect
+	golang.org/x/net v0.0.0-20221002022538-bcab6841153b // indirect
 	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f // indirect
