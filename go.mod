@@ -51,7 +51,7 @@ require (
 	//!!!! the version of go.opentelemetry.io/otel MUST be kept in sync with BuildKit's version !!!!
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4
 	golang.org/x/oauth2 v0.0.0-20220608161450-d0670ef3b1eb
-	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f
+	golang.org/x/sync v0.5.0
 	golang.org/x/term v0.0.0-20220526004731-065cf7ba2467
 	golang.org/x/time v0.0.0-20220210224613-90d013bbcef8
 	google.golang.org/grpc v1.48.0
