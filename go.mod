@@ -22,7 +22,7 @@ require (
 	github.com/morikuni/aec v1.0.0
 	github.com/muesli/ansi v0.0.0-20211031195517-c9f0611b6c70
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/image-spec v1.0.3-0.20220114050600-8b9d41f48198
+	github.com/opencontainers/image-spec v1.1.0-rc6
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
 	github.com/rs/zerolog v1.27.0
 	github.com/sergi/go-diff v1.2.0
