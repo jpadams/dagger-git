@@ -1,6 +1,6 @@
 module go.dagger.io/dagger
 
-go 1.18
+go 1.21
 
 require (
 	cuelang.org/go v0.4.3
@@ -58,7 +58,7 @@ require (
 	gopkg.in/yaml.v3 v3.0.1
 )
 
-require github.com/google/go-cmp v0.5.8
+require github.com/google/go-cmp v0.7.0
 
 require (
 	github.com/dagger/cuelsp v0.3.4
