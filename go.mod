@@ -1,6 +1,6 @@
 module go.dagger.io/dagger
 
-go 1.18
+go 1.21
 
 require (
 	cuelang.org/go v0.4.3
@@ -19,7 +19,7 @@ require (
 	github.com/mitchellh/colorstring v0.0.0-20190213212951-d06e56a500db
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/moby/buildkit v0.10.3
-	github.com/morikuni/aec v1.0.0
+	github.com/morikuni/aec v1.1.0
 	github.com/muesli/ansi v0.0.0-20211031195517-c9f0611b6c70
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.0.3-0.20220114050600-8b9d41f48198
